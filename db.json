@@ -1,0 +1,44 @@
+[
+    {
+        "countriesNumber": 1,
+        "countryName": "China",
+        "gold": 38,
+        "silver": 32,
+        "bronze": 18
+    },
+    {
+        "countriesNumber": 2,
+        "countryName": "USA",
+        "gold": 36,
+        "silver": 39,
+        "bronze": 33
+    },
+    {
+        "countriesNumber": 3,
+        "countryName": "Russia",
+        "gold": 29,
+        "silver": 27,
+        "bronze": 23
+    },
+    {
+        "countriesNumber": 4,
+        "countryName": "United Kingdom",
+        "gold": 22,
+        "silver": 16,
+        "bronze": 19
+    },
+    {
+        "countriesNumber": 5,
+        "countryName": "Japan",
+        "gold": 27,
+        "silver": 14,
+        "bronze": 17
+    },
+    {
+        "countriesNumber": 6,
+        "countryName": "Australia",
+        "gold": 17,
+        "silver": 15,
+        "bronze": 20
+    }
+]
